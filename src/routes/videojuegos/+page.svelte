@@ -68,11 +68,6 @@
             padding: 5px
         p
             padding: 5px
-    table
-        margin-top: -50px
-        margin-bottom: 50px
-        width: 100%
-        text-align: center
     tr
         height: 50px
     @media screen and (max-width: 767px)
